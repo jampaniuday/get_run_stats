@@ -9,6 +9,7 @@
     * run_stats_create.sql
 * Modify testcase.sh and insert custom SQL
 * Execute testcase.sh with one parameter (the test name)
+
     ```
     sh testcase.sh TEST1
     ```
